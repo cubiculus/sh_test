@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+shvenv
+.DS_Store
